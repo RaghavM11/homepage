@@ -50,7 +50,7 @@ profiles:
 interests:
   - Deep Learning / Computer Vision
   - SLAM
-  - Vehcile Dynamics
+  - Vehicle Dynamics
 
 education:
   - area: Masters in Automotive Engineering
@@ -143,7 +143,7 @@ languages:
 
  My research interests lie in the interplay between computer vision and 3D geometry, with focus on visual localization and mapping for autonomous systems. On a broader level it covers 3D/4D reconstruction, simultaneous localization and mapping (SLAM), and sensor fusion for mobile robotic applications in highly challenging environments. I find particular interest in the use these technologies for the greater good!
 
- In my free time i like to play Squash, Soccer and pickleball.
+ Apart from that I like extreme adventure sports 😁🤗
 
  Thanks for visiting my page and feel free to reach out!
 
