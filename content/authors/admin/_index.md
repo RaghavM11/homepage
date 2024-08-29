@@ -62,7 +62,7 @@ education:
   - area: BTech in Mechanical Engineering
     institution: GL Bajaj Institute of Technology,India
     date_start: 2015-08-01
-    date_end: 2019-06-31
+    date_end: 2019-06-01
     summary: |
       
 work:
