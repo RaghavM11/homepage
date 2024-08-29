@@ -66,29 +66,29 @@ education:
     summary: |
       
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: ADAS Algorithm Intern
+    company_name: Magna International
+    company_url: 'https://www.magna.com/products/electrical-electronics/adas-automated-driving'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-06-01
+    date_end: '2023-12-31'
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Identified KPI’s and Optimized lateral motion controller and Trajectory path follower improving performance by 3.8%.
+      - Improved Lane centering algorithm design by performing HIL and SIL test on controller, optimized C++ codebase after
+        CodeGen by performing debugging/reading MCU memory blocks using Trace 32.
+      - Performed Profiling of SW library functions and optimized math functions for improving computation time by 23%.
+      - Developed Algorithm for Oncoming Lane intersection scenario (left and right turn) using FCM and Radar fusion signals.
+      - Developed Algorithm for Object following at intersections based on Target Object Selection.
 
+  - position: CoC Engineer (Automotive Electronics-R&D)
+    company_name: Varroc Engineering 
+    company_url: 'https://varroc.com/businesses/electrical-electronics/'
+    company_logo: ''
+    date_start: 2019-10-01
+    date_end: 2022-06-10
+    summary: |
+      Delivered 2 projects from SOP to Production and managed over 20+ other projects over the span of 3 years serving 3 Major Indian OEMs.
+  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
