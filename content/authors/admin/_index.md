@@ -66,7 +66,7 @@ work:
     company_url: 'https://www.magna.com/products/electrical-electronics/adas-automated-driving'
     company_logo: ''
     date_start: 2023-06-01
-    date_end: '2023-12-31'
+    date_end: 2023-12-31
     summary: |
       - Identified KPI’s and Optimized lateral motion controller and Trajectory path follower improving performance by 3.8%.
       - Improved Lane centering algorithm design by performing HIL and SIL test on controller, optimized C++ codebase after
