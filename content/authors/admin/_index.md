@@ -53,28 +53,18 @@ interests:
   - Vehcile Dynamics
 
 education:
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Masters in Automotive Engineering
+    institution: University of Michigan
+    date_start: 2022-08-01
+    date_end: 2024-06-10
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BTech in Mechanical Engineering
+    institution: GL Bajaj Institute of Technology,India
+    date_start: 2015-08-01
+    date_end: 2019-06-31
+    summary: |
+      
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
