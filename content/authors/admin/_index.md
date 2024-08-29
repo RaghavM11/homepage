@@ -98,26 +98,32 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: C++
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: code-bracket
+      - name: MATLAB
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 100
+        icon: code-bracket
+      - name: MATLAB
+        description: ''
+        percent: 100
+        icon: code-bracket
+      
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Running
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Squash
         description: ''
         percent: 100
-        icon: cat
+        icon: person-simple-walk
       - name: Photography
         description: ''
         percent: 80
@@ -126,10 +132,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Hindi
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
